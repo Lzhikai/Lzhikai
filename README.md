@@ -1,7 +1,7 @@
 <!-- markdownlint-disable MD033 MD041 -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome to Siboor!;Focus+on+service!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome to Siboor!;Focus+on+service!&font=Fira%20Code&center=true&width=420&height=50&duration=4000&pause=1500&size=29">
 </p>
 
 <!-- profile logo 个人资料徽标 -->
