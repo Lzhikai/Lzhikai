@@ -11,3 +11,8 @@
   <a href="https://space.bilibili.com/241620007"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
 <!-- visitor statistics logo 访客数统计徽标 -->
   <img src="https://visitor-badge.glitch.me/badge?page_id=Lzhikai" alt="访客统计" /></div>
+<p align="center">
+  <a href="https://discord.gg/qYaH3P9DZt" alt="Discord" title="Dev Pro Tips Discussion & Support Server">
+    <img src="https://img.shields.io/discord/819650821314052106?color=7289DA&logo=discord&logoColor=white&style=for-the-badge"/></a>
+</p>
+<!-- markdownlint-enable MD033 -->
