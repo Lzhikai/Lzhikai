@@ -15,7 +15,7 @@
   <img src="https://visitor-badge.glitch.me/badge?page_id=Lzhikai" alt="访客统计" /></div>
   
 <p align="center">
-  <a href="https://discord.gg/qYaH3P9DZt" alt="Discord" title="Dev Pro Tips Discussion & Support Server">
+  <a href="https://discord.gg/2a6jY7XmVW" alt="Discord" title="Dev Pro Tips Discussion & Support Server">
     <img src="https://img.shields.io/discord/819650821314052106?color=7289DA&logo=discord&logoColor=white&style=for-the-badge"/></a>
   
 </p>
